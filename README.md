@@ -2,7 +2,7 @@
 
 ![Unity Editor Screenshot with alembic animations](./Docs/screenshot.png)
 
-The alembic exported from Cinema 4D with RealFlow seems to not interpolate frames and also does not support motion vectors and therefore does not have any motion blur.
+The alembic exported from Cinema 4D with RealFlow seems to not interpolate frames and also does not support motion vectors and therefore does not have any motion blur. [Forum Link](https://forum.unity.com/threads/alembic-for-unity.521649/page-4#post-6221880)
 
 ## Reproduce
 
