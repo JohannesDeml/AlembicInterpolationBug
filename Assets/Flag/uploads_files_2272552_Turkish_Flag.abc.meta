@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: ac61b472543558841a0e5d747af6e4d6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f53f5fc499d31e44b9deee84d28a9ee8, type: 3}
+  rootGameObjectId: uploads_files_2272552_Turkish_Flag
+  rootGameObjectName: uploads_files_2272552_Turkish_Flag
+  streamSettings:
+    normals: 1
+    tangents: 1
+    cameraAspectRatio: 2
+    importVisibility: 1
+    scaleFactor: 1
+    swapHandedness: 1
+    flipFaces: 0
+    interpolateSamples: 1
+    importPointPolygon: 1
+    importLinePolygon: 1
+    importTrianglePolygon: 1
+    importXform: 1
+    importCameras: 0
+    importMeshes: 1
+    importPoints: 0
+  abcStartTime: 0.041666666666666664
+  abcEndTime: 9.999999999999998
+  startTime: 0.041666666666666664
+  endTime: 9.999999999999998
+  importWarning: 
+  varyingTopologyMeshNames: []
+  splittingMeshNames: []
+  firstImport: 0
